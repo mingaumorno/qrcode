@@ -11,7 +11,7 @@ body{
     right: 15vw;
     top: 5vh;
     bottom: 5vh;
-    border-radius: 25px;
+    border-radius: 15px;
     width: 19vw;
     height: 65vh;
 }
@@ -22,8 +22,8 @@ body{
     border-radius: 20px;
     padding: 10px;
     position: relative;
-    left: 0.4vw;
-    top: 1vh;
+    left: 0.2vw;
+    top: 0.5vh;
 }
 
 p{
@@ -37,6 +37,6 @@ h1{
 }
 .info{
     position: relative;
-    bottom: 5vh;
-    padding: 25px;
+    bottom: 4vh;
+    padding: 20px;
 }
